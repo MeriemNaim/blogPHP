@@ -1,0 +1,139 @@
+/*-----------------------------------------------------------------------------------
+
+  Template Name: Greenin Environment & Non-Profit HTML Template.
+  Template URI: #
+  Description: Greenin is a unique website template designed in HTML with a simple & beautiful look. There is an excellent solution for creating clean, wonderful and trending material design corporate, corporate any other purposes websites.
+  Author: HasTech
+  Author URI: https://themeforest.net/user/hastech/portfolio
+  Version: 1.0
+-----------------------------------------------------------------------------------*/
+/*------------------------------------------
+    font-family: 'Open Sans', sans-serif;
+
+    font-family: 'Roboto Slab', serif;
+---------------------------------------------*/
+
+
+.slider__bg--1 {
+  background: rgba(0, 0, 0, 0) url("../../images/slider/bg/1.jpg") no-repeat scroll 0 0 / cover ;
+}
+
+.slider__bg--2 {
+  background: rgba(0, 0, 0, 0) url("../../images/slider/bg/2.jpg") no-repeat scroll 0 0 / cover ;
+}
+
+.slider__bg--3 {
+  background: rgba(0, 0, 0, 0) url("../../images/slider/bg/3.jpg") no-repeat scroll 0 0 / cover ;
+}
+.slider__fixed--height{
+  height: 100vh;
+}
+
+.slide {
+    align-items: center;
+    display: flex;
+}
+.slider__inner {
+    padding-top: 75px;
+    position: relative;
+    text-align: center;
+    z-index: 2;
+}
+.slider__inner h1 {
+    color: #fff;
+    font-family: Open Sans;
+    font-size: 72px;
+    font-weight: 800;
+    margin-top: 9px;
+    text-transform: capitalize;
+}
+.slider__btn {
+    margin-top: 38px;
+}
+.slider__btn a.htc__btn {
+    border-radius: 23px;
+    font-size: 18px;
+    height: 45px;
+    line-height: 42px;
+    padding: 0 34px;
+}
+.slider__btn a.htc__btn:hover {
+    border: 1px solid #fff;
+    color: #fff;
+}
+
+
+.slide__align--left .slider__inner {
+  text-align: left;
+}
+
+
+
+
+
+
+
+/*-----------------------------------------
+  Background variation Content
+-------------------------------------------*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*----------------------
+  Animation
+-------------------------*/
+
+.slider__activation__wrap.owl-carousel .owl-item img {
+  display: inline-block;
+  width: auto;
+}
+
+
+
+
+
+
+
+
+
+/*---------------------
+  cd-headline
+------------------------*/
+
+.cd-headline.loading-bar .cd-words-wrapper::after {
+  background: #49a010 none repeat scroll 0 0;
+  bottom: 0;
+  content: "";
+  height: 3px;
+  left: 0;
+  position: absolute;
+  transition: width 0.3s ease -0.1s;
+  width: 0;
+  z-index: 2;
+}
+.cd-headline.loading-bar span {
+  display: inline-block;
+  padding: 0;
+}
+.theme-color span.cd-words-wrapper b{
+ color: #49a010;
+}
+.cd-headline.loading-bar .cd-words-wrapper::after {
+  background: #49a010 none repeat scroll 0 0;
+}

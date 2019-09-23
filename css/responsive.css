@@ -1,0 +1,445 @@
+/*-----------------------------------------------------------------------------------
+
+  Template Name: Greenin Environment & Non-Profit HTML Template.
+  Template URI: #
+  Description: Greenin is a unique website template designed in HTML with a simple & beautiful look. There is an excellent solution for creating clean, wonderful and trending material design corporate, corporate any other purposes websites.
+  Author: HasTech
+  Author URI: https://themeforest.net/user/hastech/portfolio
+  Version: 1.0
+
+-----------------------------------------------------------------------------------*/
+
+
+/* Large screen desktop */
+@media (min-width: 1366px) and (max-width: 1500px){
+
+
+
+
+
+
+
+}
+
+@media (min-width: 1170px) and (max-width: 1500px){
+
+.faq__thumb {
+  left: 0;
+  width: 45%;
+}
+.htc__faq__area .title__line::before {
+  height: 187%;
+  width: 41%;
+}
+
+
+
+}
+
+
+
+/* Normal desktop :992px. */
+@media (min-width: 992px) and (max-width: 1169px) {
+
+.menumenu__container {
+  padding: 0 25px;
+}
+.main__menu > li > a {
+  padding: 0 21px;
+}
+.testimonial__inner p {
+  font-size: 28px;
+}
+.ht__call__wrap {
+  padding: 0 23px;
+}
+.faq__thumb {
+  left: 67px;
+  width: 41%;
+}
+.blog__details {
+  padding: 24px 20px;
+}
+.tag__list li a {
+  font-size: 14px;
+  padding: 0 15px;
+}
+.lst__bl__thumb {
+  margin-right: 15px;
+}
+.lst__bl__details h4 {
+  font-size: 14px;
+}
+.htc__faq__area .title__line::before {
+  height: 147%;
+  width: 30%;
+}
+
+
+
+
+
+
+}
+
+ 
+/* Tablet desktop :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+
+
+
+
+
+.mean-container .mean-nav {
+  margin-top: 0;
+}
+.htc__about__container {
+  display: block;
+}
+.htc__about__thumb,
+.smt--30 {
+  margin-top: 30px;
+}
+.counterup__container,
+.ht__call__wrap {
+  padding: 0;
+}
+.smt--40{
+  margin-top: 40px;
+}
+
+.mean-container a.meanmenu-reveal {
+  border: 2px solid #fff;
+  color: #fff;
+  margin-right: 29px;
+  margin-top: -58px;
+}
+.mean-container a.meanmenu-reveal span {
+  background: #fff none repeat scroll 0 0;
+}
+.menu__btn {
+  justify-content: flex-start;
+}
+.menumenu__container {
+  padding: 0 25px;
+}
+.htc__about__thumb {
+  text-align: center;
+}
+.title__line::before {
+  height: 130%;
+  width: 47%;
+}
+.section__title p {
+  width: 89%;
+}
+.testimonial__inner p {
+  font-size: 26px;
+  width: 100%;
+}
+.ht__call__wrap h2 {
+  font-size: 27px;
+}
+.htc__faq__area {
+  padding-bottom: 0;
+}
+.faq__thumb {
+  margin: 40px auto 0;
+  position: inherit;
+  width: 59%;
+}
+.htc__faq__area .section__title p {
+  width: 93%;
+}
+.htc__contact__wrap {
+  padding: 70px 0px 50px;
+}
+
+.header__content--wrap::before {
+  height: 23%;
+}
+.slider__fixed--height {
+  height: 80vh;
+}
+.menu__text {
+    align-items: center;
+    display: flex;
+    height: 74px;
+}
+.menu__text a {
+    color: #fff;
+    font-family: Roboto Slab;
+    font-size: 28px;
+    padding-bottom: 4px;
+}
+
+
+.htc__faq__area .title__line::before {
+  height: 207%;
+  width: 46%;
+}
+
+
+
+
+
+
+
+
+
+}
+
+ 
+/* small mobile :320px. */
+@media (max-width: 767px) {
+  
+.container {width:300px}
+
+
+.xsmt--40,
+.htc__about__thumb,
+.funfact{
+  margin-top: 40px;
+}
+
+.section__title p,
+.testimonial__inner p ,
+.htc__faq__area .section__title p,
+.cmt__details p{
+  width: 100%;
+}
+.htc__about__container,
+.counterup__container,
+.ht__bl__link,
+.ht__single__cmnt__form.name,
+.htc__page__container {
+  display: block;
+}
+.ht__single__cmnt__form.name input,
+.ht__single__cmnt__form.name {
+  margin: 0;
+}
+
+.ht__single__cmnt__form.name input + input {
+  margin-top: 22px;
+  margin-bottom: 20px;
+}
+.counterup__container {
+  margin-top: -40px;
+}
+.counterup__container {
+  padding: 0;
+}
+.replay__btn {
+  margin-left: 0;
+}
+.htc__faq__area .title__line {
+  font-size: 22px;
+}
+.htc__page__container {
+  text-align: center;
+}
+.htc__contact__wrap {
+  padding: 70px 0px 50px;
+}
+.pagenation {
+  justify-content: center;
+}
+.testimonial__inner p {
+  font-size: 23px;
+  line-height: 37px;
+}
+.ht__call__wrap {
+  flex-flow: row wrap;
+  height: 265px;
+  padding: 0;
+}
+.older,
+.pagenation {
+  margin-bottom: 20px;
+}
+.ht__blog__thumb iframe {
+  height: 182px;
+}
+.page__btn {
+  margin-top: 20px;
+}
+.ht__single__comment.replay {
+  margin-left: 0;
+}
+.service__details p {
+  font-size: 14px;
+}
+.service__details {
+  padding: 27px 15px;
+}
+.title__line {
+  font-size: 26px;
+  padding-bottom: 24px;
+}
+.slider__inner h1 {
+  font-size: 27px;
+}
+.slider__fixed--height {
+  height: auto;
+  padding: 72px 0;
+}
+.social__icon {
+  height: 44px;
+  justify-content: center;
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
+.logo {
+  height: 49px;
+  padding-bottom: 10px;
+  padding-top: 7px;
+  text-align: center;
+  display: block;
+}
+.social__icon {
+  margin-right: 0;
+}
+.menu__btn {
+  justify-content: flex-start;
+}
+.menumenu__container {
+  padding: 0 15px;
+}
+.mean-container a.meanmenu-reveal {
+  border: 2px solid #fff;
+  color: #fff;
+  margin-right: 13px;
+  margin-top: -57px;
+}
+.mean-container a.meanmenu-reveal span {
+  background: #fff none repeat scroll 0 0;
+}
+.mean-container .mean-nav {
+  margin-top: 0;
+}
+.mainmenu__wrap.sticky__header {
+  top: 112px;
+}
+.htc__header__top::before {
+  height: 20%;
+}
+.ht__call__wrap h2 {
+  font-size: 29px;
+  line-height: 39px;
+}
+.ht__call__btn {
+  margin-top: -61px;
+}
+
+.faq__thumb {
+  margin: 40px auto auto;
+  position: inherit;
+  width: 97%;
+}
+.htc__faq__area {
+  padding-bottom: 0;
+}
+.blog__details h2 {
+  font-size: 17px;
+}
+.blog__details {
+  padding: 24px 11px;
+}
+.ht__blog__dtl__inner {
+  padding: 0 10px;
+}
+.ht__blog__dtl h2 a {
+  font-size: 19px;
+  padding-top: 18px;
+}
+.bl__meta {
+  display: block;
+}
+.bl__meta li + li {
+  margin-left: 0;
+  margin-top: 10px;
+}
+blockquote {
+  margin: 22px 0 24px 15px;
+}
+.contact-box.name_email {
+  display: block;
+  margin-left: 0;
+  margin-right: 0;
+}
+.contact-box.name_email input {
+  margin: 0px;
+}
+.contact-box.name_email input + input {
+  margin-top: 34px;
+}
+.header__content--wrap::before {
+  display: none;
+}
+.slider__btn a.htc__btn {
+  font-size: 14px;
+  height: 37px;
+  line-height: 33px;
+  padding: 0 20px;
+}
+.slider__btn {
+  margin-top: 30px;
+}
+.section__title p {
+  font-size: 15px;
+  line-height: 24px;
+}
+.ht__bradcaump__wrap {
+  height: 292px;
+}
+.menu__text {
+    align-items: center;
+    display: flex;
+    height: 74px;
+}
+.menu__text a {
+    color: #fff;
+    font-family: Roboto Slab;
+    font-size: 28px;
+    padding-bottom: 4px;
+}
+.title__line.title__line--2  {
+  padding-bottom: 31px;
+}
+.title__line::before {
+  height: 139%;
+  width: 58%;
+}
+.htc__haq__title {
+  font-size: 24px;
+  margin-bottom: 3px;
+}
+.title__line.title__line--2::before {
+  width: 144px;
+}
+.htc__about__inner h2 {
+  font-size: 26px;
+}
+.htc__faq__area .title__line::before {
+  height: 182%;
+}
+
+
+
+}
+
+
+/* Large Mobile :480px. */
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+.container {width:450px}
+
+
+
+
+
+
+
+
+}
+ 
